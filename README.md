@@ -67,10 +67,17 @@ To create a centralized, interactive Power BI dashboard that enables:
 - Hourly and daily sales trends support better marketing campaign timing
 
 ---
-## 6. 🖼️ Dashboard Screenshot
+## 6. 🖼️ Dashboard Snapshots
 
-> Upload your Power BI screenshot as `dashboard-screenshot.png`  
-> Then add the below code to render it in the README
+### 🔹 Overview Page
+This page highlights the key KPIs such as Net Sales, Total Customers, Repeat Rate, Lifetime Value (LTV), and sales performance by region, payment method, and product type.
 
-```markdown
-![Dashboard Preview](./dashboard-screenshot.png)
+![Dashboard Overview](https://github.com/arjunlakshatwad/shopify-sales-customer-powerbi/blob/main/dashboard-overview.jpg)
+
+---
+
+### 🔹 Details Page
+This section allows users to explore transaction-level details, drill through specific cities or customers, and validate aggregated insights with underlying data.
+
+![Dashboard Details](https://github.com/arjunlakshatwad/shopify-sales-customer-powerbi/blob/main/dashboard-details.jpg)
+
